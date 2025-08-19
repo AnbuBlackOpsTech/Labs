@@ -1,4 +1,4 @@
-# 🌐 Azure Homelab – AZ-104 Study
+# 🌐 Azure Homelab 
 
 This repo documents my Azure homelabs as I prepare for the **AZ-104: Microsoft Azure Administrator** exam.  
 Each folder contains step-by-step labs, notes, and diagrams for specific exam domains.
