@@ -14,20 +14,19 @@ Each folder contains step-by-step labs, notes, and diagrams for specific exam do
 
 ## 📘 Exam Domains
 1. **Manage Azure identities and governance (15–20%)**
-   - [Identities Lab](01_manage-identities/)
-   - [Governance & RBAC](02_governance/)
+   
 
 2. **Implement and manage storage (15–20%)**
-   - [Storage Lab](03_storage/)
+
 
 3. **Deploy and manage Azure compute resources (20–25%)**
-   - [Compute Lab](04_compute/)
+
 
 4. **Configure and manage virtual networking (25–30%)**
-   - [Networking Lab](05_virtual-networking/)
+
 
 5. **Monitor and back up Azure resources (10–15%)**
-   - [Monitoring Lab](07_monitoring/)
+   
 
 ---
 
