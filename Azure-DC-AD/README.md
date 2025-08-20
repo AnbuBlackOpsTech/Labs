@@ -103,6 +103,10 @@ We have now sucessfully promoted the DC ✅ and we can start creating users and 
 
 <img width="3840" height="2160" alt="Screenshot 2025-08-20 010847" src="https://github.com/user-attachments/assets/228e2310-4567-45d6-8bef-20fd4424f326" />
 
+---
+
+
+
 
 
 
