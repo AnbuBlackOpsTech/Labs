@@ -105,6 +105,7 @@ We have now sucessfully promoted the DC ✅ and we can start creating users and 
 
 ---
 
+***Important: remember to deallocate your resources once you are done with your labs to be cost effective***
 
 
 
