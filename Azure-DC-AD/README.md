@@ -22,7 +22,7 @@ This repo documents my Azure homelab to create a **Domain Controler** in **Azure
 
 ---
 
-To start this homelab I would recomend signing up the free credit account in Azure. You will get $200 to use in 30 days to spin up the required resources and this will be more than enough for homelabing. 
+To start this homelab I would recomend signing up the free credit account in Azure. You will get $200 to use in 30 days to spin up the required resources and this will be more than enough for homelabing. I have also attached a scripts to do this too but we will focus on how to do this via the portal for this demonstation.
 
 ---
 
